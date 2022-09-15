@@ -48,6 +48,7 @@ SELECT * FROM `moviedatabase`.`movie`;
 SELECT * FROM `movie` WHERE (title = 'Jurassic World' AND ratingAverage = '6.5');
 
 -- Retrieve all the movies that have a rating of 7 and above.
+SELECT * FROM `movie` WHERE (ratingAverage >=7);
 
 -- Fetch all the movies that have the title Avengers.
 
