@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b8aa8fd-89f9-4387-9932-7d5fa1bb5286" name="Changes" comment="created the movie database">
+    <list default="true" id="5b8aa8fd-89f9-4387-9932-7d5fa1bb5286" name="Changes" comment="&#10;inserted the Furious 7 movie details">
       <change beforePath="$PROJECT_DIR$/src/main/resources/movie_database_queries.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/movie_database_queries.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +72,56 @@
       <option name="project" value="LOCAL" />
       <updated>1663241239745</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="used the movie database">
+      <created>1663241292149</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663241292149</updated>
+    </task>
+    <task id="LOCAL-00006" summary="created the table movie">
+      <created>1663241324487</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663241324487</updated>
+    </task>
+    <task id="LOCAL-00007" summary="inserted the avatar movie details">
+      <created>1663241402070</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663241402070</updated>
+    </task>
+    <task id="LOCAL-00008" summary="inserted the titanic movie details">
+      <created>1663241440712</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663241440712</updated>
+    </task>
+    <task id="LOCAL-00009" summary="inserted the avengers movie details">
+      <created>1663241478729</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1663241478729</updated>
+    </task>
+    <task id="LOCAL-00010" summary="inserted the jurassic world movie details">
+      <created>1663241511618</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1663241511618</updated>
+    </task>
+    <task id="LOCAL-00011" summary="&#10;inserted the Furious 7 movie details">
+      <created>1663241564474</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1663241564474</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,7 +140,14 @@
     <MESSAGE value="changed the jdk version from 18 to 11" />
     <MESSAGE value="created the file movies_database_queries.sql" />
     <MESSAGE value="created the movie database" />
-    <option name="LAST_COMMIT_MESSAGE" value="created the movie database" />
+    <MESSAGE value="used the movie database" />
+    <MESSAGE value="created the table movie" />
+    <MESSAGE value="inserted the avatar movie details" />
+    <MESSAGE value="inserted the titanic movie details" />
+    <MESSAGE value="inserted the avengers movie details" />
+    <MESSAGE value="inserted the jurassic world movie details" />
+    <MESSAGE value="&#10;inserted the Furious 7 movie details" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;inserted the Furious 7 movie details" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
