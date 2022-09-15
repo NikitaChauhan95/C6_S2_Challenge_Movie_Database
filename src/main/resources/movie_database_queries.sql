@@ -35,6 +35,7 @@ INSERT INTO `moviedatabase`.`movie` VALUES('The Avengers Age of Ultron','280','2
 -- iron man 3, 200, 18-04-2013, 122, 6.8
 INSERT INTO `moviedatabase`.`movie` VALUES('Iron Man 3','200','18-04-2013','141','7.3');
 -- minions, 74, 17-06-2015, 11, 6.4
+INSERT INTO `moviedatabase`.`movie` VALUES('Minions','74','17-06-2015','11','6.4');
 -- captain america: civil war, 250, 27-04-2016, 115, 7.1
 -- transformers: dark of the moon, 195, 28-06-2011, 112, 6.1
 
