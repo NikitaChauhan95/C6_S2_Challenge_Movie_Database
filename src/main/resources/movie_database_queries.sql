@@ -42,6 +42,7 @@ INSERT INTO `moviedatabase`.`movie` VALUES('Captain America: Civil War','250','2
 INSERT INTO `moviedatabase`.`movie` VALUES('Transformers : Dark of the Moon','195','28-06-2011','112','6.1');
 
 -- Get all the movies from the Movie table.
+SELECT * FROM `moviedatabase`.`movie`;
 
 -- Fetch the movie with the name Jurassic World and a rating of 6.5.
 
