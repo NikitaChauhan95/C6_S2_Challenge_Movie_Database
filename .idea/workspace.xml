@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b8aa8fd-89f9-4387-9932-7d5fa1bb5286" name="Changes" comment="Got all the movies from the Movie table.">
+    <list default="true" id="5b8aa8fd-89f9-4387-9932-7d5fa1bb5286" name="Changes" comment="Fetched the title and release date of all movies beginning with 'T'.">
       <change beforePath="$PROJECT_DIR$/src/main/resources/movie_database_queries.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/movie_database_queries.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -163,7 +163,56 @@
       <option name="project" value="LOCAL" />
       <updated>1663241900219</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Fetched the movie with the name Jurassic World and a rating of 6.5.">
+      <created>1663241944050</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1663241944050</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Retrieved all the movies that have a rating of 7 and above.">
+      <created>1663241986132</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1663241986132</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Fetched all the movies that have the title Avengers.">
+      <created>1663242029971</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1663242029971</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Retrieved the title, and rating of all the movies that have a rating between 7 and 8.">
+      <created>1663242069464</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1663242069464</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Got the title of all the movies that have a budget of $250 million and more.">
+      <created>1663242109421</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1663242109421</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Retrieved the title, and rating of all movies that had earned a revenue of $150 to $200 million.">
+      <created>1663242152967</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1663242152967</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Fetched the title and release date of all movies beginning with 'T'.">
+      <created>1663242208352</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1663242208352</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,7 +244,14 @@
     <MESSAGE value="&#10;inserted the 'Captain America : Civil War' movie details" />
     <MESSAGE value="&#10;inserted the 'Transformers : Dark of the Moon' movie details" />
     <MESSAGE value="Got all the movies from the Movie table." />
-    <option name="LAST_COMMIT_MESSAGE" value="Got all the movies from the Movie table." />
+    <MESSAGE value="Fetched the movie with the name Jurassic World and a rating of 6.5." />
+    <MESSAGE value="Retrieved all the movies that have a rating of 7 and above." />
+    <MESSAGE value="Fetched all the movies that have the title Avengers." />
+    <MESSAGE value="Retrieved the title, and rating of all the movies that have a rating between 7 and 8." />
+    <MESSAGE value="Got the title of all the movies that have a budget of $250 million and more." />
+    <MESSAGE value="Retrieved the title, and rating of all movies that had earned a revenue of $150 to $200 million." />
+    <MESSAGE value="Fetched the title and release date of all movies beginning with 'T'." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fetched the title and release date of all movies beginning with 'T'." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

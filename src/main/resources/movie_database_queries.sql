@@ -66,5 +66,6 @@ SELECT title, ratingAverage FROM `movie` WHERE (revenueInMillions BETWEEN 150 AN
 SELECT title, releaseDate FROM `movie` WHERE title LIKE 'T%';
 
 --Retrieve the total revenue of all the movies together.
+SELECT sum(revenueInMillions) FROM `movie`;
 
 --Get the title, revenue of the movie that has earned the least revenue.
