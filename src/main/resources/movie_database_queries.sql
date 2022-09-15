@@ -2,7 +2,7 @@
 CREATE DATABASE IF NOT EXISTS `movieDatabase`;
 
 -- use the `movies` database
-
+USE `moviedatabase`;
 
 -- create a table called `movie` with the following columns:
 -- title
