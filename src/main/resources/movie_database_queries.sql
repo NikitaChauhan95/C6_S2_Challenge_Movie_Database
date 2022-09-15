@@ -11,6 +11,14 @@ USE `moviedatabase`;
 -- revenue_in_millions
 -- rating_average
 
+CREATE TABLE IF NOT EXISTS `movie`(
+title varchar(50),
+budgetInMillions int,
+releaseDate varchar(30),
+revenueInMillions int,
+ratingAverage int
+);
+
 -- insert the following data into the `movie` table:
 -- avatar, 237, 10-12-2009, 278, 7.2
 -- titanic, 200, 11-18-1997, 185, 7.5
