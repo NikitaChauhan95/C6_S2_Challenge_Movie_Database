@@ -29,6 +29,7 @@ INSERT INTO `moviedatabase`.`movie` VALUES('The Avengers','220','25-4-2012','152
 -- jurassic world, 150, 09-06-2015, 151, 6.5
 INSERT INTO `moviedatabase`.`movie` VALUES('Jurassic World','150','09-06-2015','151','6.5');
 -- furious 7, 190, 01-04-2015, 141, 7.3
+INSERT INTO `moviedatabase`.`movie` VALUES('Furious 7','190','01-04-2015','150','7.3');
 -- the avengers: age of ultron, 280, 22-04-2015, 141, 7.3
 -- iron man 3, 200, 18-04-2013, 122, 6.8
 -- minions, 74, 17-06-2015, 11, 6.4
