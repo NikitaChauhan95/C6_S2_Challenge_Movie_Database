@@ -21,6 +21,7 @@ ratingAverage int
 
 -- insert the following data into the `movie` table:
 -- avatar, 237, 10-12-2009, 278, 7.2
+INSERT INTO `moviedatabase`.`movie` VALUES('Avatar','237','10-12-2009','278','7.2');
 -- titanic, 200, 11-18-1997, 185, 7.5
 -- the avengers, 220, 25-04-2012, 152, 7.4
 -- jurassic world, 150, 09-06-2015, 151, 6.5
