@@ -69,3 +69,6 @@ SELECT title, releaseDate FROM `movie` WHERE title LIKE 'T%';
 SELECT sum(revenueInMillions) FROM `movie`;
 
 --Get the title, revenue of the movie that has earned the least revenue.
+SELECT title, revenueInMillions
+FROM `moviedatabase`.`movie`
+WHERE(`revenueInMillions` = (SELECT MIN(`revenueInMillions`) FROM `moviedatabase`.`movie`));
