@@ -57,6 +57,7 @@ SELECT * FROM `movie` WHERE (title = 'Avengers');
 SELECT title,ratingAverage FROM `movie` WHERE (ratingAverage BETWEEN 7 AND 8);
 
 -- Get the title of all the movies that have a budget of $250 million and more.
+SELECT title FROM `movie` WHERE (budgetInMillions >= 250);
 
 -- Retrieve the title, and rating of all movies that had earned a revenue of $150 to $200 million.
 
