@@ -1,1 +1,44 @@
--- create the movie database
+--create a database called `movies`
+CREATE DATABASE IF NOT EXISTS `movieDatabase`;
+
+-- use the `movies` database
+
+
+-- create a table called `movie` with the following columns:
+-- title
+-- budget_in_millions
+-- release_date
+-- revenue_in_millions
+-- rating_average
+
+-- insert the following data into the `movie` table:
+-- avatar, 237, 10-12-2009, 278, 7.2
+-- titanic, 200, 11-18-1997, 185, 7.5
+-- the avengers, 220, 25-04-2012, 152, 7.4
+-- jurassic world, 150, 09-06-2015, 151, 6.5
+-- furious 7, 190, 01-04-2015, 141, 7.3
+-- the avengers: age of ultron, 280, 22-04-2015, 141, 7.3
+-- iron man 3, 200, 18-04-2013, 122, 6.8
+-- minions, 74, 17-06-2015, 11, 6.4
+-- captain america: civil war, 250, 27-04-2016, 115, 7.1
+-- transformers: dark of the moon, 195, 28-06-2011, 112, 6.1
+
+-- Get all the movies from the Movie table.
+
+-- Fetch the movie with the name Jurassic World and a rating of 6.5.
+
+-- Retrieve all the movies that have a rating of 7 and above.
+
+-- Fetch all the movies that have the title Avengers.
+
+-- Retrieve the title, and rating of all the movies that have a rating between 7 and 8.
+
+-- Get the title of all the movies that have a budget of $250 million and more.
+
+-- Retrieve the title, and rating of all movies that had earned a revenue of $150 to $200 million.
+
+-- Fetch the title and release date of all movies beginning with 'T'.
+
+--Retrieve the total revenue of all the movies together.
+
+--Get the title, revenue of the movie that has earned the least revenue.
