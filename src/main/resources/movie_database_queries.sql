@@ -61,7 +61,9 @@ SELECT title FROM `movie` WHERE (budgetInMillions >= 250);
 
 -- Retrieve the title, and rating of all movies that had earned a revenue of $150 to $200 million.
 SELECT title, ratingAverage FROM `movie` WHERE (revenueInMillions BETWEEN 150 AND 200);
+
 -- Fetch the title and release date of all movies beginning with 'T'.
+SELECT title, releaseDate FROM `movie` WHERE title LIKE 'T%';
 
 --Retrieve the total revenue of all the movies together.
 
