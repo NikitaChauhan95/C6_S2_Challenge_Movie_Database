@@ -45,6 +45,7 @@ INSERT INTO `moviedatabase`.`movie` VALUES('Transformers : Dark of the Moon','19
 SELECT * FROM `moviedatabase`.`movie`;
 
 -- Fetch the movie with the name Jurassic World and a rating of 6.5.
+SELECT * FROM `movie` WHERE (title = 'Jurassic World' AND ratingAverage = '6.5');
 
 -- Retrieve all the movies that have a rating of 7 and above.
 
